@@ -1,1 +1,36 @@
+[
+	{
+		"name": "",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": [""],
+		"preferredVictoryType": "",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "¡Pagarás muy cara tu ofensa contra la Nueva España!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, el virrey de la Nueva España le saluda.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puede la Nueva España ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
 
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [25,140,75],
+		"innerColor": [185,39,39],
+		"uniqueName": "El Mercurio Volante",
+		"uniques": ["[Great Scientist] is earned [30]% faster]", "[Great Artist] is earned [30]% faster]", "[Great Engineer] is earned [30]% faster]", "[Great Merchant] is earned [30]% faster]", "[Great Prophet] is earned [30]% faster]", "[+2 Gold] [in all cities]", "[+2 Culture] [in all cities]", "[+2 Science] [in all cities]"]
+		"cities": ["Ciudad de México","Puebla","Guanajuato","Antequera de Oaxaca","Tlaxcala","Mérida","Veracruz","Guadalajara","Xalapa","Celaya"]
+	},
+  ]
