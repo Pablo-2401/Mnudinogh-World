@@ -1,15 +1,15 @@
 [
 	{
-		"name": "",
-		"leaderName": "",
-		"adjective": [""],
-		"startBias": [""],
-		"preferredVictoryType": "",
+		"name": "Parsobia",
+		"leaderName": "Parsus VIII",
+		"adjective": ["Parsóbico"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a Parsobia.",
 		
-		"declaringWar": "¡Pagarás muy cara tu ofensa contra la Nueva España!",
+		"declaringWar": "Lo pagarás.",
 		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
 		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
 		"introduction": "Encantado de conocerle, el virrey de la Nueva España le saluda.",
