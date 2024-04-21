@@ -2,20 +2,20 @@
 	{
 		"name": "Parsobia",
 		"leaderName": "Parsus VIII",
-		"adjective": ["Parsóbico"],
+		"adjective": ["Parsobiano"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hola, gran líder.",
 		"startIntroPart2": "Bienvenido a Parsobia.",
 		
-		"declaringWar": "Lo pagarás.",
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
 		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
 		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
-		"introduction": "Encantado de conocerle, el virrey de la Nueva España le saluda.",
+		"introduction": "Encantado de conocerle, Parsobia le saluda.",
 		
 		"neutralHello": "Buenas tardes, amigo mío.",
-		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puede la Nueva España ayudarle en algo?"],
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
 		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
 		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
 
@@ -27,10 +27,10 @@
 		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
 		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
 
-		"outerColor": [25,140,75],
-		"innerColor": [185,39,39],
-		"uniqueName": "El Mercurio Volante",
-		"uniques": ["[Great Scientist] is earned [30]% faster]", "[Great Artist] is earned [30]% faster]", "[Great Engineer] is earned [30]% faster]", "[Great Merchant] is earned [30]% faster]", "[Great Prophet] is earned [30]% faster]", "[+2 Gold] [in all cities]", "[+2 Culture] [in all cities]", "[+2 Science] [in all cities]"]
-		"cities": ["Ciudad de México","Puebla","Guanajuato","Antequera de Oaxaca","Tlaxcala","Mérida","Veracruz","Guadalajara","Xalapa","Celaya"]
+		"outerColor": [212,172,13],
+		"innerColor": [242,243,244],
+		"uniqueName": "La Era del Cambio",
+		"uniques": ["[Great Scientist] is earned [50]% faster]", "[Great Engineer] is earned [50]% faster]", "[Great Merchant] is earned [50]% faster]", "[+2 Gold] [in all cities]", "[+2 Science] [in all cities]"]
+		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
 	},
   ]
